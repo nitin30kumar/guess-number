@@ -1,4 +1,4 @@
-# Guess number Game :dice: 
+# Guess number Game :game_die: 
 
 > This is a simple number guessing game where player will guess a number from 0 to 99 & it will tell you whether you're correct or not !
 
