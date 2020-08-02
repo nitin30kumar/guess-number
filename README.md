@@ -1,4 +1,4 @@
-# Guess number Game :game_die: 
+# Guess number Game :slot_machine: 
 
 > This is a simple number guessing game where player will guess a number from 0 to 99 & it will tell you whether you're correct or not !
 
